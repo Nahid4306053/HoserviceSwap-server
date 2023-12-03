@@ -1,0 +1,37 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration
+.env
+
+# Log files
+*.log
+
+# npm debugging logs
+npm-debug.log
+
+# yarn.lock file for Yarn users
+yarn.lock
+
+# .lock-wscript file
+.lock-wscript
+
+# Node-waf configuration
+.node-waf/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# jspm packages
+jspm_packages/
+
+# Optional REPL history
+.node_repl_history
+
+# Nest build output
+/dist/
+/nx-dist/
+.vercel
